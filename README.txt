@@ -1,0 +1,2 @@
+I worked on this project when I was doing internship for Geotech company. I used Node.js in the project. An API is running with Express.js. This API fetch an API from the company's partner MipMap technologies and is presented to the user with its GUI.
+The main purpose that the project serves is taking a coordinate or a place name and responding to the opposite in return.
